@@ -1,0 +1,6 @@
+ultralytics==8.0.161
+supervision==0.13.0
+opencv-python==4.8.0.76
+imutils==0.5.4
+boto3==1.28.32
+awslambdaric
